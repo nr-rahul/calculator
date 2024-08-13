@@ -10,3 +10,10 @@
 5. Reset functionality
 6. Format larger numbers
 7. Output resize based on length
+
+# Installation #
+
+1. git clone https://github.com/madzadev/calculator.git
+2. cd calculator
+3. npm install
+4. npm start
